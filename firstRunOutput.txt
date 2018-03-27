@@ -1,0 +1,50 @@
+*Population size 5 | Tournament size 3 | Mutation rate .15
+
+-------------------------------------------------
+Generation # 0  | Fittest chromosome fitness: 8
+-------------------------------------------------
+Chromosome  # 0  : [sad, singing, ocean, young, explosion, music, notebook, creek, afternoon, sad, want, person] | Fitness: 8
+Chromosome  # 1  : [river, backyard, dreams, its, minute, end, orange, black, daybreak, poem, earthworm, red] | Fitness: 8
+Chromosome  # 2  : [rainstorm, sometimes, today, apple, however, music, tapping, we, growing, dog, found, may] | Fitness: 7
+Chromosome  # 3  : [into, until, create, person, crash, long, black, a, female, red, bus, leaves] | Fitness: 6
+Chromosome  # 4  : [beautiful, rock, time, second, are, i, fish, are, gate, body, phone, many] | Fitness: 5
+
+Generation # 1 | Fittest chromosome fitness: 9
+-------------------------------------------------
+Chromosome  # 0  : [rainstorm, sometimes, today, apple, however, music, tapping, we, growing, vanilla, found, may] | Fitness: 9
+Chromosome  # 1  : [sad, singing, ocean, young, explosion, music, notebook, creek, afternoon, sad, want, person] | Fitness: 8
+Chromosome  # 2  : [river, end, dreams, its, minute, end, orange, black, daybreak, poem, earthworm, red] | Fitness: 7
+Chromosome  # 3  : [beautiful, family, time, second, are, i, fish, are, gate, body, phone, many] | Fitness: 7
+Chromosome  # 4  : [into, until, create, person, crash, long, black, a, female, red, bus, leaves] | Fitness: 6
+
+Generation # 2 | Fittest chromosome fitness: 9
+-------------------------------------------------
+Chromosome  # 0  : [rainstorm, sometimes, today, apple, however, music, tapping, we, growing, vanilla, found, may] | Fitness: 9
+Chromosome  # 1  : [beautiful, family, time, second, are, i, fish, are, gate, body, hearing, today] | Fitness: 7
+Chromosome  # 2  : [river, end, dreams, its, minute, end, orange, black, daybreak, poem, earthworm, done] | Fitness: 6
+Chromosome  # 3  : [into, until, purple, person, crash, long, black, a, female, red, bus, leaves] | Fitness: 5
+Chromosome  # 4  : [sad, any, ocean, below, faded, music, notebook, this, may, sad, want, backyard] | Fitness: 3
+
+Generation # 3 | Fittest chromosome fitness: 9
+-------------------------------------------------
+Chromosome  # 0  : [rainstorm, sometimes, today, apple, however, music, tapping, we, growing, vanilla, found, may] | Fitness: 9
+Chromosome  # 1  : [river, end, dreams, its, minute, peers, afterwards, black, humid, poem, earthworm, done] | Fitness: 8
+Chromosome  # 2  : [beautiful, family, time, second, are, i, fish, are, gate, body, hearing, today] | Fitness: 7
+Chromosome  # 3  : [into, dry, purple, person, crash, most, some, a, female, red, bus, leaves] | Fitness: 4
+Chromosome  # 4  : [sad, any, ocean, below, faded, music, notebook, morning, may, sad, want, backyard] | Fitness: 4
+
+Generation # 4 | Fittest chromosome fitness: 9
+-------------------------------------------------
+Chromosome  # 0  : [rainstorm, sometimes, today, apple, however, music, tapping, we, growing, vanilla, found, may] | Fitness: 9
+Chromosome  # 1  : [river, end, dreams, its, minute, river, afterwards, black, humid, poem, earthworm, done] | Fitness: 8
+Chromosome  # 2  : [beautiful, family, time, second, are, i, fish, are, gate, body, hearing, today] | Fitness: 7
+Chromosome  # 3  : [sad, any, ocean, below, faded, music, notebook, morning, may, his, want, backyard] | Fitness: 5
+Chromosome  # 4  : [love, children, purple, person, crash, most, some, a, female, red, bus, leaves] | Fitness: 4
+
+Generation # 5 | Fittest chromosome fitness: 12
+-------------------------------------------------
+Chromosome  # 0  : [they, end, dreams, violent, minute, found, afterwards, black, need, poem, earthworm, done] | Fitness: 12
+Chromosome  # 1  : [rainstorm, sometimes, today, apple, however, music, tapping, we, growing, vanilla, found, may] | Fitness: 9
+Chromosome  # 2  : [quickly, family, time, second, are, i, fish, are, gate, body, hearing, today] | Fitness: 6
+Chromosome  # 3  : [sad, any, ocean, below, faded, music, notebook, morning, may, his, want, backyard] | Fitness: 5
+Chromosome  # 4  : [love, children, purple, person, crash, most, some, a, female, red, bus, flipping] | Fitness: 4

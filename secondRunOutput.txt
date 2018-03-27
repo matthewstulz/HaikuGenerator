@@ -1,0 +1,128 @@
+*Population size 6 | Tournament size 2 | Mutation rate .25
+
+-------------------------------------------------
+Generation # 0  | Fittest chromosome fitness: 10
+-------------------------------------------------
+Chromosome  # 0  : [me, full, driving, abnormal, orange, daybreak, january, they, shadows, driving, broken, touch] | Fitness: 10
+Chromosome  # 1  : [sunset, peers, like-new, music, old, into, pen, male, scattered, end, view, garden] | Fitness: 8
+Chromosome  # 2  : [sad, the, walk, boats, dark, flies, seems, second, backyard, you, wonderful, body] | Fitness: 7
+Chromosome  # 3  : [excited, began, shadows, before, sunset, early, your, great, they, unknown, long, tomorrow] | Fitness: 7
+Chromosome  # 4  : [pressed, female, dry, winter, waddle, fisherman, lake, under, below, found, blowing, gate] | Fitness: 7
+Chromosome  # 5  : [sky, all, pond, unwanted, season, over, grandchild, of, excited, i, time, tea] | Fitness: 5
+
+Generation # 1 | Fittest chromosome fitness: 10
+-------------------------------------------------
+Chromosome  # 0  : [me, full, driving, abnormal, orange, daybreak, january, they, shadows, driving, broken, touch] | Fitness: 10
+Chromosome  # 1  : [pressed, female, dry, winter, waddle, fisherman, lake, under, below, found, coffee, silence] | Fitness: 9
+Chromosome  # 2  : [sunset, female, broken, this, old, into, pen, male, scattered, hiking, weather, garden] | Fitness: 8
+Chromosome  # 3  : [sad, the, walk, boats, dark, before, tea, second, backyard, you, wonderful, body] | Fitness: 6
+Chromosome  # 4  : [this, began, shadows, before, cookies, early, your, really, they, unknown, white, light] | Fitness: 4
+Chromosome  # 5  : [sky, all, pond, unwanted, tattoo, over, simply, of, create, began, calm, tea] | Fitness: 4
+
+Generation # 2 | Fittest chromosome fitness: 10
+-------------------------------------------------
+Chromosome  # 0  : [me, full, driving, abnormal, orange, daybreak, january, they, shadows, driving, broken, touch] | Fitness: 10
+Chromosome  # 1  : [sunset, female, hot, garden, trees, into, pen, male, scattered, hiking, trees, garden] | Fitness: 7
+Chromosome  # 2  : [pressed, she, dry, winter, waddle, fisherman, cold, under, waddle, found, both, silence] | Fitness: 5
+Chromosome  # 3  : [sky, all, pond, unwanted, tattoo, over, simply, of, create, began, calm, tea] | Fitness: 4
+Chromosome  # 4  : [sad, the, love, dreams, dark, before, tea, some, backyard, you, wonderful, far] | Fitness: 3
+Chromosome  # 5  : [full, began, shadows, before, cookies, early, watch, really, as, light, white, light] | Fitness: 1
+
+Generation # 3 | Fittest chromosome fitness: 10
+-------------------------------------------------
+Chromosome  # 0  : [me, full, driving, abnormal, orange, daybreak, january, they, shadows, driving, broken, touch] | Fitness: 10
+Chromosome  # 1  : [sunset, female, music, garden, trees, bus, pen, body, scattered, hiking, quickly, garden] | Fitness: 7
+Chromosome  # 2  : [pressed, she, person, winter, waddle, fisherman, cold, under, waddle, found, both, silence] | Fitness: 6
+Chromosome  # 3  : [sky, watch, pond, unwanted, broken, over, simply, of, home, began, may, tea] | Fitness: 5
+Chromosome  # 4  : [sad, across, start, pillow, dark, before, your, some, backyard, you, wonderful, far] | Fitness: 5
+Chromosome  # 5  : [full, asking, bed, side, asking, early, watch, really, as, light, white, light] | Fitness: -1
+
+Generation # 4 | Fittest chromosome fitness: 10
+-------------------------------------------------
+Chromosome  # 0  : [me, full, driving, abnormal, orange, daybreak, january, they, shadows, driving, broken, touch] | Fitness: 10
+Chromosome  # 1  : [vanilla, watch, however, unwanted, broken, over, simply, of, home, began, warning, tea] | Fitness: 10
+Chromosome  # 2  : [sunset, female, moonlight, garden, trees, bus, pen, body, scattered, hiking, quickly, today] | Fitness: 7
+Chromosome  # 3  : [sad, across, start, pillow, dark, before, your, some, backyard, you, sad, far] | Fitness: 3
+Chromosome  # 4  : [pressed, she, person, winter, stream, leaves, cold, side, blowing, found, both, silence] | Fitness: 2
+Chromosome  # 5  : [full, early, bed, side, asking, tattoo, this, really, as, light, white, light] | Fitness: -1
+
+Generation # 5 | Fittest chromosome fitness: 10
+-------------------------------------------------
+Chromosome  # 0  : [me, full, driving, abnormal, orange, daybreak, january, they, shadows, driving, broken, touch] | Fitness: 10
+Chromosome  # 1  : [its, watch, however, unwanted, move, over, simply, of, home, began, warning, tea] | Fitness: 8
+Chromosome  # 2  : [flies, family, moonlight, garden, trees, bus, pen, body, duck, become, laughter, today] | Fitness: 6
+Chromosome  # 3  : [sad, across, start, really, dark, second, your, some, backyard, you, sad, far] | Fitness: 3
+Chromosome  # 4  : [pressed, she, person, end, stream, leaves, cold, side, blowing, found, both, her] | Fitness: 0
+Chromosome  # 5  : [full, early, bed, side, asking, tattoo, this, really, as, light, white, light] | Fitness: -1
+
+Generation # 6 | Fittest chromosome fitness: 10
+-------------------------------------------------
+Chromosome  # 0  : [me, full, driving, abnormal, orange, daybreak, january, they, shadows, driving, broken, touch] | Fitness: 10
+Chromosome  # 1  : [sad, across, start, really, dark, second, your, perfect, poem, you, bed, far] | Fitness: 6
+Chromosome  # 2  : [in, hair, person, afternoon, stream, leaves, cold, side, pillow, found, both, poem] | Fitness: 6
+Chromosome  # 3  : [flies, coming, moonlight, garden, unknown, bus, pen, body, duck, become, laughter, today] | Fitness: 5
+Chromosome  # 4  : [calm, another, however, meet, move, front, far, of, home, began, warning, tea] | Fitness: 4
+Chromosome  # 5  : [sometimes, early, bed, bear, asking, tattoo, this, really, as, light, bone, light] | Fitness: 4
+
+Generation # 7 | Fittest chromosome fitness: 10
+-------------------------------------------------
+Chromosome  # 0  : [me, full, driving, abnormal, orange, daybreak, january, they, shadows, driving, broken, touch] | Fitness: 10
+Chromosome  # 1  : [flies, coming, minute, sometimes, bottle, rain, fisherman, body, duck, tattoo, laughter, today] | Fitness: 10
+Chromosome  # 2  : [in, hair, person, afternoon, stream, leaves, cold, side, pillow, found, both, poem] | Fitness: 6
+Chromosome  # 3  : [sad, across, start, really, dark, second, your, perfect, spring, you, bed, far] | Fitness: 5
+Chromosome  # 4  : [calm, another, however, meet, move, wind, car, of, home, feel, warning, tea] | Fitness: 3
+Chromosome  # 5  : [sunset, early, bed, bear, book, tattoo, this, really, bird, light, bone, light] | Fitness: 3
+
+Generation # 8 | Fittest chromosome fitness: 10
+-------------------------------------------------
+Chromosome  # 0  : [me, full, driving, abnormal, orange, daybreak, january, they, shadows, driving, broken, touch] | Fitness: 10
+Chromosome  # 1  : [in, hair, person, afternoon, blue, leaves, cold, i, pillow, found, sidewalk, second] | Fitness: 10
+Chromosome  # 2  : [flies, coming, shop, sometimes, bottle, bottle, its, fisherman, duck, front, laughter, today] | Fitness: 7
+Chromosome  # 3  : [sad, across, fumble, really, dark, second, your, perfect, view, you, bed, far] | Fitness: 7
+Chromosome  # 4  : [sunset, short, bed, bear, book, tattoo, this, really, bird, light, pier, light] | Fitness: 3
+Chromosome  # 5  : [calm, another, however, meet, move, wind, car, of, home, duck, flies, tea] | Fitness: 1
+
+Generation # 9 | Fittest chromosome fitness: 10
+-------------------------------------------------
+Chromosome  # 0  : [me, full, driving, abnormal, orange, daybreak, january, they, shadows, driving, broken, touch] | Fitness: 10
+Chromosome  # 1  : [in, hair, person, afternoon, day, leaves, time, i, pillow, found, sidewalk, second] | Fitness: 10
+Chromosome  # 2  : [you, across, fumble, really, dark, second, your, perfect, view, friends, january, far] | Fitness: 10
+Chromosome  # 3  : [flies, coming, shop, sometimes, bottle, bottle, mountain, fisherman, duck, front, laughter, today] | Fitness: 8
+Chromosome  # 4  : [sunset, short, bed, bear, book, tattoo, meet, really, bird, white, pier, light] | Fitness: 4
+Chromosome  # 5  : [calm, another, however, lane, move, blue, such, of, excited, duck, flies, sky] | Fitness: 1
+
+Generation # 10 | Fittest chromosome fitness: 10
+-------------------------------------------------
+Chromosome  # 0  : [me, full, driving, abnormal, orange, daybreak, january, they, shadows, driving, broken, touch] | Fitness: 10
+Chromosome  # 1  : [scattered, hair, person, afternoon, day, while, time, calm, pillow, found, spring, second] | Fitness: 10
+Chromosome  # 2  : [my, chirp, fumble, fish, that, second, cold, perfect, view, friends, january, time] | Fitness: 7
+Chromosome  # 3  : [flies, coming, shop, sometimes, bottle, bottle, mountain, fisherman, great, front, laughter, today] | Fitness: 7
+Chromosome  # 4  : [sunset, short, bed, bear, book, female, meet, really, bird, climbing, pier, light] | Fitness: 6
+Chromosome  # 5  : [calm, another, however, scattered, move, blue, such, of, excited, duck, flies, dreams] | Fitness: 4
+
+Generation # 11 | Fittest chromosome fitness: 11
+-------------------------------------------------
+Chromosome  # 0  : [my, chirp, fumble, april, parent, singing, cold, perfect, view, friends, january, book] | Fitness: 11
+Chromosome  # 1  : [me, full, driving, abnormal, orange, daybreak, january, they, shadows, driving, broken, touch] | Fitness: 10
+Chromosome  # 2  : [scattered, hair, violent, afternoon, day, while, time, calm, pillow, found, spring, across] | Fitness: 9
+Chromosome  # 3  : [shadows, coming, shop, wet, bottle, bottle, mountain, fisherman, great, trees, laughter, sky] | Fitness: 5
+Chromosome  # 4  : [sunset, short, bed, bear, book, female, second, really, my, climbing, pier, light] | Fitness: 5
+Chromosome  # 5  : [calm, another, however, pressed, move, afternoon, shadows, this, excited, too, flies, move] | Fitness: 5
+
+Generation # 12 | Fittest chromosome fitness: 11
+-------------------------------------------------
+Chromosome  # 0  : [my, chirp, fumble, april, parent, singing, cold, perfect, view, friends, january, book] | Fitness: 11
+Chromosome  # 1  : [me, full, driving, abnormal, waddle, daybreak, january, they, fell, driving, april, overcast] | Fitness: 10
+Chromosome  # 2  : [scattered, hair, violent, calm, day, while, time, away, pillow, beautiful, spring, across] | Fitness: 9
+Chromosome  # 3  : [sunset, gate, sea, bear, book, female, second, family, my, climbing, pier, light] | Fitness: 7
+Chromosome  # 4  : [shadows, coming, in, wet, bottle, bottle, mountain, fisherman, often, words, laughter, sky] | Fitness: 6
+Chromosome  # 5  : [waddle, below, however, pressed, move, climbing, their, this, excited, too, flies, move] | Fitness: 4
+
+Generation # 13 | Fittest chromosome fitness: 13
+Chromosome  # 0  : [me, nightmare, driving, abnormal, waddle, daybreak, january, they, branches, driving, perfect, overcast] | Fitness: 13
+Chromosome  # 1  : [my, chirp, fumble, april, parent, singing, cold, perfect, view, friends, january, book] | Fitness: 11
+Chromosome  # 2  : [begin, afternoon, violent, calm, day, while, time, away, pillow, beautiful, spring, across] | Fitness: 9
+Chromosome  # 3  : [sunset, gate, sea, stream, book, female, want, family, my, what, pier, light] | Fitness: 4
+Chromosome  # 4  : [shadows, coming, in, wet, bottle, bottle, bugs, music, often, words, laughter, sky] | Fitness: 4
+Chromosome  # 5  : [waddle, below, however, pressed, move, climbing, their, this, a, too, flies, move] | Fitness: 2
+
